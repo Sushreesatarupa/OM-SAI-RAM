@@ -1,4 +1,4 @@
-/*
+OM SAI RAM/*
  Template Name: FoodEpik
  File Name: custom.js
  Author Name: ThemeVault
